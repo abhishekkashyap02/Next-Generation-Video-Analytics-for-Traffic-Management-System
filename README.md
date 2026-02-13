@@ -125,7 +125,7 @@ graph TB
                              ▼
 ┌──────────────────────────────────────────────────────────────────────┐
 │                         DEPLOYMENT                                   │
-│  🐳 Containerize → 🚀  Deploy to Edge →  🔗 Connect to Cameras     │       
+│  🐳 Containerize → 🚀  Deploy to Edge →  🔗 Connect to Cameras      │       
 └────────────────────────────┬─────────────────────────────────────────┘
                              │
                              ▼
