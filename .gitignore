@@ -1,0 +1,6 @@
+train/images/
+train/labels/
+train/training/
+train/testing/
+train/validation/
+*.npy
